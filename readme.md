@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-November 2, 2026 at 02:54:18 AM UTC
+November 3, 2026 at 04:11:21 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ November 2, 2026 at 02:54:18 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (545)
+## Papers (550)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -572,6 +572,11 @@ November 2, 2026 at 02:54:18 AM UTC
 - [CAFE: Causally-Guided Automated Feature Engineering with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2602.16435)
 - [Geodesic-SVDD Latent Mixup for One-Shot Distributed Tabular Learning](https://arxiv.org/abs/2610.33619)
 - [Sparse tensor networks for individual tree diameter estimation in mixed forests](https://arxiv.org/abs/2610.37784)
+- [A Deep Reinforcement Learning Framework for Real-Time Electric Vehicle Charging Management in IoEV-Enabled Smart Cities](https://arxiv.org/abs/2611.01751)
+- [Mean Field Reinforcement Learning: Theory and Algorithms for Mean Field Control](https://arxiv.org/abs/2607.01525)
+- [KINDER: Kernel-based Independence for Fair Representation Learning via Prototype-space Erasure](https://arxiv.org/abs/2611.00264)
+- [rl_rob: A transparent, from-scratch Python library for teaching reinforcement learning from tabular methods to deep policy gradients](https://arxiv.org/abs/2610.41303)
+- [Predicting Cognitive Profiles from Structural MRI using Spatial Graph Representation Learning](https://arxiv.org/abs/2611.00113)
 
 
 ## Library
