@@ -10,7 +10,7 @@ A meticulously curated compilation of outstanding libraries, projects, tutorials
 Our repository is **automatically updated** with the latest **Tabular Deep Learning related research papers from arXiv**, ensuring that users have access to the most up-to-date advancements in the field. Whether you're a researcher, developer, or enthusiast, this collection provides a centralized hub for everything Tabular Deep Learning related.
 
 ## Last Updated
-November 16, 2026 at 03:21:55 AM UTC
+November 17, 2026 at 05:22:10 AM UTC
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@ November 16, 2026 at 03:21:55 AM UTC
   - [Star History](#star-history)
 
 
-## Papers (554)
+## Papers (557)
 - [TabulaTime: A Novel Multimodal Deep Learning Framework for Advancing Acute Coronary Syndrome Prediction through Environmental and Clinical Data Integration](https://arxiv.org/abs/2502.17049)
 - [A Generative Approach to Credit Prediction with Learnable Prompts for Multi-scale Temporal Representation Learning](https://arxiv.org/abs/2404.13004)
 - [GeoAggregator: An Efficient Transformer Model for Geo-Spatial Tabular Data](https://arxiv.org/abs/2502.15032)
@@ -581,6 +581,9 @@ November 16, 2026 at 03:21:55 AM UTC
 - [Selective Prediction Intervals: Jointly Learning to Predict, Bound, and Abstain](https://arxiv.org/abs/2611.06158)
 - [RamanPFN: A physics-guided spectral foundation framework for in-context learning across diverse Raman applications](https://arxiv.org/abs/2608.02157)
 - [f-Divergence Self-Play for Tabular Anomaly Detection via Large Language Models](https://arxiv.org/abs/2611.18370)
+- [Tabular Foundation Models as Emulators for Forecasting Terrestrial Ecosystem Dynamics](https://arxiv.org/abs/2611.20468)
+- [TabXLLM: Unlocking Zero- and Few-Shot Tabular Prediction in LLMs via Structural-Prior Reinforcement Learning](https://arxiv.org/abs/2510.17385)
+- [Benchmarking the State of AI for Crop Yield Forecasting: A Global Assessment Across Modeling Paradigms](https://arxiv.org/abs/2611.19330)
 
 
 ## Library
